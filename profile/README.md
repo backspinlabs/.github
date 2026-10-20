@@ -8,6 +8,9 @@ Apps and shop tools by Jackson Eaker, in Allen, Texas.
 - [OrderPick](https://orderpick.backspinlabs.com): web orders picked by scan, with stock at every store. For shops that sell through Workstand and use Lightspeed Retail.
 - [Tally](https://tally.backspinlabs.com): ask Claude or ChatGPT about your shop's sales, stock, customers, and service.
 
+**For law firms**
+- [Compel](https://compel.backspinlabs.com): turns mixed family-law discovery files into structured financial output, on hardware the firm controls. In pilot.
+
 **Apps**
 - [Belay](https://belay.backspinlabs.com): a Mac terminal that keeps track of AI coding agents.
 - [DigCrate](https://digcrate.backspinlabs.com): reads the tempo, key, and energy of your music library and builds DJ sets. The engine and CLI are open source in [digcrate](https://github.com/backspinlabs/digcrate).
