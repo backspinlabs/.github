@@ -2,7 +2,7 @@
 
 # Backspin Labs
 
-Apps and shop tools by Jackson Eaker, in Allen, Texas.
+Apps and shop tools from Allen, Texas.
 
 **For bike shops**
 - [OrderPick](https://orderpick.backspinlabs.com): web orders picked by scan, with stock at every store. For shops that sell through Workstand and use Lightspeed Retail.
